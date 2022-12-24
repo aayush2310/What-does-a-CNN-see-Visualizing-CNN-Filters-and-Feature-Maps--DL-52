@@ -1,3 +1,5 @@
 CNN acts like a black box,we input the image and get an o/p.
 We can use this technique to know how our CNN actually see the data and process it.
 Initial layers detect the primitive features/edges and the deep layers detect the complex features/edges,we will prove this through a code.
+
+Link to the blog:-https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
